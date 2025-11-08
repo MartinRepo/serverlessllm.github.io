@@ -46,7 +46,7 @@ const config = {
           editUrl:
             'https://github.com/ServerlessLLM/serverlessllm.github.io/tree/main/',
           // Versioning configuration
-          lastVersion: '0.8.0', // Make stable version the default at /docs/
+          lastVersion: '0.8.1', // Make stable version the default at /docs/
           versions: {
             current: {
               label: 'Latest (dev)',
